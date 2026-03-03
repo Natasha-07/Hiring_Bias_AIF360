@@ -1,0 +1,9 @@
+﻿# Core dependencies used by the analysis scripts.
+# Python version used during development: 3.12.10
+
+# aif360 is loaded from ./AIF360 (local source provided by professor)
+matplotlib==3.10.7
+numpy==2.3.4
+pandas==2.3.3
+scikit-learn==1.7.2
+

@@ -1,0 +1,27 @@
+# Python cache/artifacts
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+
+# Temporary Office/Word lock files and temp files
+~$*.docx
+*.tmp
+
+# Local notebook checkpoints
+.ipynb_checkpoints/
+
+# Optional: uncomment to ignore generated plots/CSVs
+# plots/
